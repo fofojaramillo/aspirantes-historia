@@ -10,3 +10,5 @@ KPI_02: Proporción estudiantes extranjeros y nacionales
 KPI_03: Diferencia de promedios entre aspirantes y aceptados
     Verificar si, en efecto, el promedio de los aceptados es mayor que el promedio de todos lo aspirantes.
     
+KPI_04: Proporcion de edades de aspirantes y aceptados
+    Verificar si la proporción de edades de los aplicantes aceptados es representa a la población de aspirantes
